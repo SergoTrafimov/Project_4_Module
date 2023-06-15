@@ -16,6 +16,4 @@ def strcounter(s):
         sym_count[sym] = sym_count.get(sym, 0) +1
     for sym, count in sym_count.items():
         print(sym, count)
-
-
-strcounter('hfhfhfhfhfhhfhfsjekusaqwe')
+print('АЗАЗАЗАЗАЗАЗА')
