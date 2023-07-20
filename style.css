@@ -14,3 +14,18 @@ h1 {
     margin-botton:60px;
     padding-botton: 60px;
     padding-left: 20px}
+
+.paragraph3{
+    font-weight:bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
+
+.paragraph4{
+    font-size: 24px;
+    font-style: oblique;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    box-shadow: 10px 10px 10px 10px lightgreen;
+}
