@@ -78,6 +78,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
+    },
+    "new" :{  #дз 6 занятие
+        'ENGINE' : 'django.db.backends.postgresql', # основа базы данных, этим параметром мы задаем тип базы данных
+        'NAME' : BASE_DIR/ 'db.postgersql', #Название и путь кБ Д
     }
 }
 
